@@ -49,6 +49,7 @@ header img{
         }
 
         footer {
+            margin-top: 20px;
             background-color: #333;
             color: #fff;
             text-align: center;
@@ -66,4 +67,9 @@ header img{
 nav a{
     border:  3px solid #e2d4d400;
     padding: 5px 50px;
+}
+#six{
+    background-color: lightgrey;
+    width: 100%;
+    margin-bottom: 40px;
 }
